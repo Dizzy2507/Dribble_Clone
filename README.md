@@ -1,16 +1,6 @@
 # Dribbble Website Clone
 
-This is a solution of development of the frontend part of dribbble website clone using HTML and CSS Only created by Harshita Mishra.
-
-
-### Links
-
-- Solution URL: [https://github.com/mharshita02/DribbleClone](https://github.com/mharshita02/DribbleClone)
-- Live Site URL: https://mharshita02.github.io/DribbleClone/
-
-=======
->>>>>>> 9a326df35f1c3ebe7c6e48e2066d45cb580a66a8
-## My process
+This is a solution of development of the frontend part of dribbble website clone using HTML and CSS Only created by Deepali.
 
 ## Built with
 
@@ -20,7 +10,6 @@ This is a solution of development of the frontend part of dribbble website clone
 - Desktop-first workflow
 - CSS Variables
 - CSS Media Queries
-
 
 ## Screenshot
 
